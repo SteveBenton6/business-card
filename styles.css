@@ -36,11 +36,13 @@ body {
 
 .name {
   background-color: white;
+  border-radius: 3px;
 }
 
 .name:hover {
-  font-size: 20px;
-  background-color: #cac2c2;
+  color: white;
+  background-color: #0353a4;
+  text-shadow: 0px 0px 2px black;
 }
 
 .text-shadow {
