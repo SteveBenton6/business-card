@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: space-around;
   text-align: center;
-  background: #c7ccd0;
+  background: linear-gradient(#e3e5e7, #a6bed2);
   color: #001233;
   border: 2px solid #001233;
   border-radius: 2px;
@@ -41,6 +41,10 @@ body {
 .name:hover {
   font-size: 20px;
   background-color: #cac2c2;
+}
+
+.text-shadow {
+  text-shadow: 0px 0px 2px white;
 }
 
 .location:hover {

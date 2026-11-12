@@ -13,3 +13,5 @@
 7. Git and GitHub
 8. Box-shadow
 9. Hover
+10. Utility Class
+11. Background Color Gradient
